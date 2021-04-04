@@ -8,12 +8,29 @@ Image Super-resolution Using Deep Learning
  PSNR is the Peak  signal-to-noise ratio  (PSNR)  is defined  as  theratio ofthe  maximum  possible power  of  a  signal  and  the  power  of  corrupting  noise  that  affects  the  fidelity  of  its representation.If the value of the PSNR is high the betteristhe model to reconstruct a high-resolution image from a low resolution image.
  
  Ground-Truth Image
+ 
+ 
+ 
  ![image](https://user-images.githubusercontent.com/51491512/113520735-32caa200-958d-11eb-9ecd-d59ad39408ff.png)
-HR-BI
-(PSNR  =20.497630181368823)
+
+
+HR-BI (PSNR  =20.497630181368823)
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/51491512/113520768-60afe680-958d-11eb-942a-79268c930fee.png)
+
+
+
 HR-SRCNN (PSNR=22.922696428588342)
  
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/51491512/113520772-67d6f480-958d-11eb-9410-ec257aafde47.png)
 
 (PSNR for HR_image and LR_image is : 20.497630181368823
